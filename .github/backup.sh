@@ -3,7 +3,7 @@
 [[ -v VERBOSE ]] && set -x
 set -eu
 
-target="/data/raw"
+target="${1}/data/raw"
 
 echo delegated-afrinic-extended-latest
 curl -o "${target}/delegated-afrinic-extended-latest.txt" ftp://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest
