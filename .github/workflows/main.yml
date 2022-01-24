@@ -1,9 +1,9 @@
-name: CIDR update cronjob
+name: RIR update nightly cronjob
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
