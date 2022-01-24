@@ -18,7 +18,7 @@ jobs:
 
       - name: Running backup script
         run: |
-          sudo bash .github/backup.sh ${GITHUB_WORKSPACE}
+          bash .github/backup.sh ${GITHUB_WORKSPACE}
 
       - name: Commit RIR changes
         uses: EndBug/add-and-commit@v8
