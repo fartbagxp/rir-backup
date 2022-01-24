@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-      - test-branch
+  schedule:
+    - cron: '16 22 * * *'
 
 jobs:
   deploy:
