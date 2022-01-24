@@ -1,24 +1,9 @@
-# rir-backup
-This repository is intended to backup the Regional Internet Registries Statistics website
+# Overview
 
-## Code
+This repository is intended to backup the Regional Internet Registries Statistics website for IP registration information, including what Autonomous System Number (ASN) an IP may belong to.
 
-```bash
-# original website:
-http://www-public.it-sudparis.eu/~maigron/RIR_Stats/index.html
+It is intended to run nightly.
 
-echo delegated-afrinic-extended-latest
-curl -o delegated-afrinic-extended-latest.txt ftp://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest
+## Information Location
 
-echo delegated-apnic-extended-latest
-curl -o delegated-apnic-extended-latest.txt ftp://ftp.apnic.net/pub/stats/apnic/delegated-apnic-extended-latest
-
-echo delegated-arin-extended-latest
-curl -o delegated-arin-extended-latest.txt ftp://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest
-
-echo delegated-lacnic-extended-latest
-curl -o delegated-lacnic-extended-latest.txt ftp://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-extended-latest
-
-echo delegated-ripencc-extended-latest
-curl -o delegated-ripencc-extended-latest.txt ftp://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest
-```
+The information came from http://www-public.it-sudparis.eu/~maigron/RIR_Stats/index.html.
