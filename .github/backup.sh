@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-set -e
+[[ -v VERBOSE ]] && set -x
+set -eu
 
 target="${1}/data/raw"
 
