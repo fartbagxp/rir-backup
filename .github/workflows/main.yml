@@ -15,21 +15,16 @@ jobs:
         run: |
           sudo apt-get install -y curl
 
-      - name: Setup Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v2
-        with:
-          python-version: ${{ matrix.python-version }}
-
       - name: Running backup script
         run: |
-          bash .github/backup.sh
+          bash .github/backup.sh ${GITHUB_WORKSPACE}
 
-      - name: Commit CIDR changes
-        uses: EndBug/add-and-commit@v7
+      - name: Commit RIR changes
+        uses: EndBug/add-and-commit@v8
         with:
           author_name: Github Action Bot
           author_email: noreply@github.com
-          message: 'Nightly update of raw CIDR ranges'
+          message: 'Nightly update of raw RIR changes based on registration'
           add: 'data/*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
