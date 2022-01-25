@@ -19,3 +19,6 @@ curl -o "${target}/delegated-lacnic-extended-latest.txt" ftp://ftp.lacnic.net/pu
 
 echo delegated-ripencc-extended-latest
 curl -o "${target}/delegated-ripencc-extended-latest.txt" ftp://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest
+
+echo ripe-ncc-allocated-list
+curl -o "${target}/ripe-ncc-alloclist.txt" ftp://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt
