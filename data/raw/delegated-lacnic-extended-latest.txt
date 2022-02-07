@@ -1,4 +1,4 @@
-2.3|lacnic|20220205|82491|19870101|20220204|-0300
+2.3|lacnic|20220206|82491|19870101|20220204|-0300
 lacnic|*|ipv4|*|19354|summary
 lacnic|*|ipv6|*|49698|summary
 lacnic|*|asn|*|13439|summary
