@@ -22,3 +22,6 @@ curl -o "${target}/delegated-ripencc-extended-latest.txt" ftp://ftp.ripe.net/pub
 
 echo ripe-ncc-allocated-list
 curl -o "${target}/ripe-ncc-alloclist.txt" ftp://ftp.ripe.net/pub/stats/ripencc/membership/alloclist.txt
+
+echo asn-listing
+curl -o "${target}/autnums.html" https://bgp.potaroo.net/cidr/autnums.html
