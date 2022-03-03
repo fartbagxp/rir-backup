@@ -1,5 +1,5 @@
-2.3|lacnic|20220301|82701|19870101|20220225|-0300
-lacnic|*|ipv4|*|19359|summary
+2.3|lacnic|20220302|82697|19870101|20220225|-0300
+lacnic|*|ipv4|*|19355|summary
 lacnic|*|ipv6|*|49863|summary
 lacnic|*|asn|*|13479|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
@@ -10841,7 +10841,6 @@ lacnic|AR|ipv4|179.61.64.0|4096|20131216|allocated|49683
 lacnic|AR|ipv4|179.61.80.0|4096|20131227|allocated|50882
 lacnic|CL|ipv4|179.61.96.0|4096|20131230|allocated|196097
 lacnic|CO|ipv4|179.61.112.0|4096|20140102|allocated|196413
-lacnic|CL|ipv4|179.61.128.0|32768|20140106|allocated|150472
 lacnic|AR|ipv4|179.62.0.0|65536|20130528|allocated|41699
 lacnic||ipv4|179.63.0.0|16384||reserved|
 lacnic||ipv4|179.63.64.0|4096||reserved|
@@ -11448,7 +11447,6 @@ lacnic|HN|ipv4|181.210.0.0|65536|20120925|allocated|39771
 lacnic|EC|ipv4|181.211.0.0|65536|20131226|allocated|22675
 lacnic|CL|ipv4|181.212.0.0|65536|20140612|allocated|20015
 lacnic|BR|ipv4|181.213.0.0|65536|20140602|allocated|236102
-lacnic|CL|ipv4|181.214.0.0|131072|20140529|allocated|150472
 lacnic|BR|ipv4|181.216.0.0|524288|20140602|allocated|236102
 lacnic|BR|ipv4|181.224.0.0|1024|20211210|allocated|308663
 lacnic|BR|ipv4|181.224.4.0|1024|20211130|allocated|264294
@@ -14897,7 +14895,6 @@ lacnic|AR|ipv4|191.80.0.0|262144|20140310|allocated|24221
 lacnic|AR|ipv4|191.84.0.0|131072|20140310|allocated|24221
 lacnic|BR|ipv4|191.86.0.0|131072|20140317|allocated|306751
 lacnic|CO|ipv4|191.88.0.0|524288|20131217|allocated|22402
-lacnic|CL|ipv4|191.96.0.0|65536|20131024|allocated|150472
 lacnic|CO|ipv4|191.97.0.0|4096|20140106|allocated|92301
 lacnic|VE|ipv4|191.97.16.0|1024|20140120|allocated|171322
 lacnic|PE|ipv4|191.97.20.0|1024|20201217|allocated|314621
@@ -14932,7 +14929,6 @@ lacnic|BR|ipv4|191.98.239.0|256|20210916|allocated|311436
 lacnic|NI|ipv4|191.98.240.0|4096|20140214|allocated|47149
 lacnic|EC|ipv4|191.99.0.0|65536|20140116|allocated|27293
 lacnic|EC|ipv4|191.100.0.0|65536|20140203|allocated|21462
-lacnic|CL|ipv4|191.101.0.0|65536|20140313|allocated|150472
 lacnic|CO|ipv4|191.102.0.0|4096|20140221|allocated|64586
 lacnic|AR|ipv4|191.102.16.0|4096|20140225|allocated|81315
 lacnic|CL|ipv4|191.102.32.0|1024|20140305|allocated|197135
