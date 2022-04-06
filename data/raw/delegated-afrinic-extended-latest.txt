@@ -1,4 +1,4 @@
-2|afrinic|20220405|13730|00000000|20220405|00000
+2|afrinic|20220406|13730|00000000|20220406|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4781|summary
 afrinic|*|ipv6|*|5623|summary
@@ -4124,7 +4124,7 @@ afrinic|NG|ipv4|102.22.96.0|1024|20200121|allocated|F3699B57
 afrinic|CI|ipv4|102.22.100.0|1024|20200228|allocated|F3619C8C
 afrinic|SL|ipv4|102.22.104.0|1024|20191126|allocated|F3665E95
 afrinic|ZA|ipv4|102.22.112.0|2048|20191218|allocated|F36EADB7
-afrinic|ZA|ipv4|102.22.120.0|1024|20191223|allocated|F363D418
+afrinic|ZA|ipv4|102.22.120.0|1024|20191223|allocated|F36DFA7F
 afrinic|ZA|ipv4|102.22.124.0|1024|20191118|allocated|F36B13C7
 afrinic|RW|ipv4|102.22.128.0|16384|20191129|allocated|F3630A7F
 afrinic|ZA|ipv4|102.22.192.0|4096|20191129|allocated|F36DA693
