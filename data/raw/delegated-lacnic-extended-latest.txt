@@ -1,7 +1,7 @@
-2.3|lacnic|20220420|83289|19870101|20220420|-0300
+2.3|lacnic|20220421|83294|19870101|20220421|-0300
 lacnic|*|ipv4|*|19416|summary
-lacnic|*|ipv6|*|50295|summary
-lacnic|*|asn|*|13578|summary
+lacnic|*|ipv6|*|50299|summary
+lacnic|*|asn|*|13579|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated|311598
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated|301675
@@ -14332,7 +14332,7 @@ lacnic|MX|ipv4|190.113.52.0|1024|20210312|allocated|313876
 lacnic|AR|ipv4|190.113.56.0|1024|20210315|allocated|315853
 lacnic|BR|ipv4|190.113.60.0|512|20210208|allocated|315063
 lacnic|AR|ipv4|190.113.62.0|256|20210416|assigned|315674
-lacnic||ipv4|190.113.63.0|256||reserved|
+lacnic|VE|ipv4|190.113.63.0|256|20220421|allocated|316143
 lacnic|DO|ipv4|190.113.64.0|4096|20140430|assigned|35264
 lacnic|CR|ipv4|190.113.80.0|1024|20130405|allocated|144438
 lacnic|CR|ipv4|190.113.84.0|1024|20130522|allocated|146148
@@ -33871,7 +33871,11 @@ lacnic||ipv6|2803:3f01::|32||reserved|
 lacnic||ipv6|2803:3f02::|31||reserved|
 lacnic||ipv6|2803:3f04::|30||reserved|
 lacnic||ipv6|2803:3f08::|29||reserved|
-lacnic||ipv6|2803:3f10::|28||available
+lacnic|VE|ipv6|2803:3f10::|32|20220421|allocated|316143
+lacnic||ipv6|2803:3f11::|32||reserved|
+lacnic||ipv6|2803:3f12::|31||reserved|
+lacnic||ipv6|2803:3f14::|30||reserved|
+lacnic||ipv6|2803:3f18::|29||reserved|
 lacnic|PY|ipv6|2803:3f20::|32|20180420|allocated|286684
 lacnic||ipv6|2803:3f21::|32||reserved|
 lacnic||ipv6|2803:3f22::|31||reserved|
@@ -82906,7 +82910,8 @@ lacnic|VE|asn|272122|1|20220411|allocated|334614
 lacnic|DO|asn|272123|1|20220412|allocated|336119
 lacnic|AR|asn|272124|1|20220413|allocated|324523
 lacnic|CO|asn|272125|1|20220413|allocated|72918
-lacnic||asn|272126|31||available
+lacnic|VE|asn|272126|1|20220421|allocated|316143
+lacnic||asn|272127|30||available
 lacnic|BR|asn|272157|1|20210824|allocated|325945
 lacnic|BR|asn|272158|1|20210824|allocated|307869
 lacnic|BR|asn|272159|1|20210824|allocated|313793
