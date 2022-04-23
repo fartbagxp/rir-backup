@@ -1,7 +1,7 @@
-2.3|lacnic|20220421|83294|19870101|20220421|-0300
+2.3|lacnic|20220422|83300|19870101|20220422|-0300
 lacnic|*|ipv4|*|19416|summary
-lacnic|*|ipv6|*|50299|summary
-lacnic|*|asn|*|13579|summary
+lacnic|*|ipv6|*|50303|summary
+lacnic|*|asn|*|13581|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated|311598
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated|301675
@@ -16021,7 +16021,7 @@ lacnic|CL|ipv4|200.9.232.0|512|19940221|assigned|129
 lacnic|CL|ipv4|200.9.234.0|256|20151006|assigned|241731
 lacnic|AR|ipv4|200.9.235.0|256|19940222|allocated|24221
 lacnic|AR|ipv4|200.9.236.0|256|19940222|assigned|1306
-lacnic|AR|ipv4|200.9.237.0|256|19940223|assigned|1307
+lacnic|AR|ipv4|200.9.237.0|256|19940223|assigned|337511
 lacnic|CL|ipv4|200.9.238.0|512|19940221|assigned|130
 lacnic|CL|ipv4|200.9.240.0|512|19940221|assigned|130
 lacnic|AR|ipv4|200.9.242.0|512|19940223|assigned|1305
@@ -40482,7 +40482,11 @@ lacnic||ipv6|2803:bf01::|32||reserved|
 lacnic||ipv6|2803:bf02::|31||reserved|
 lacnic||ipv6|2803:bf04::|30||reserved|
 lacnic||ipv6|2803:bf08::|29||reserved|
-lacnic||ipv6|2803:bf10::|28||available
+lacnic|BO|ipv6|2803:bf10::|32|20220422|allocated|332237
+lacnic||ipv6|2803:bf11::|32||reserved|
+lacnic||ipv6|2803:bf12::|31||reserved|
+lacnic||ipv6|2803:bf14::|30||reserved|
+lacnic||ipv6|2803:bf18::|29||reserved|
 lacnic|EC|ipv6|2803:bf20::|32|20180420|allocated|287271
 lacnic||ipv6|2803:bf21::|32||reserved|
 lacnic||ipv6|2803:bf22::|31||reserved|
@@ -82911,7 +82915,9 @@ lacnic|DO|asn|272123|1|20220412|allocated|336119
 lacnic|AR|asn|272124|1|20220413|allocated|324523
 lacnic|CO|asn|272125|1|20220413|allocated|72918
 lacnic|VE|asn|272126|1|20220421|allocated|316143
-lacnic||asn|272127|30||available
+lacnic|BO|asn|272127|1|20220422|allocated|332237
+lacnic|GF|asn|272128|1|20220422|allocated|294391
+lacnic||asn|272129|28||available
 lacnic|BR|asn|272157|1|20210824|allocated|325945
 lacnic|BR|asn|272158|1|20210824|allocated|307869
 lacnic|BR|asn|272159|1|20210824|allocated|313793
