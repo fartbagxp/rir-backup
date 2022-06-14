@@ -1,7 +1,7 @@
-2|afrinic|20220613|14005|00000000|20220613|00000
+2|afrinic|20220614|14012|00000000|20220614|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4846|summary
-afrinic|*|ipv6|*|5833|summary
+afrinic|*|ipv6|*|5840|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -4477,6 +4477,7 @@ afrinic|SD|ipv4|102.181.192.0|8192|20170616|allocated|F366600B
 afrinic|ZA|ipv4|102.182.0.0|65536|20170602|allocated|F363520F
 afrinic|EG|ipv4|102.184.0.0|524288|20170517|allocated|F3625D7B
 afrinic|LR|ipv4|102.215.52.0|1024|20220610|allocated|F362A252
+afrinic|AO|ipv4|102.215.60.0|1024|20220613|allocated|F36A1CEF
 afrinic|ZA|ipv4|102.215.72.0|1024|20220610|allocated|F3611ED8
 afrinic|NA|ipv4|102.215.104.0|1024|20220526|allocated|F3694A3E
 afrinic|KE|ipv4|102.215.116.0|1024|20220608|allocated|F36FBA0F
@@ -7896,7 +7897,6 @@ afrinic|ZZ|ipv4|102.177.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
 afrinic|ZZ|ipv4|102.215.48.0|512||reserved|
-afrinic|ZZ|ipv4|102.215.60.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.64.0|2048||reserved|
 afrinic|ZZ|ipv4|102.215.76.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.80.0|2048||reserved|
@@ -10358,7 +10358,14 @@ afrinic|ZZ|ipv6|2c0f:2208::|29||available|
 afrinic|ZZ|ipv6|2c0f:2210::|28||available|
 afrinic|ZZ|ipv6|2c0f:2220::|27||available|
 afrinic|ZZ|ipv6|2c0f:2240::|26||available|
-afrinic|ZZ|ipv6|2c0f:2280::|25||available|
+afrinic|NG|ipv6|2c0f:2280::|32|20220613|allocated|F36FE55F
+afrinic|ZZ|ipv6|2c0f:2281::|32||available|
+afrinic|ZZ|ipv6|2c0f:2282::|31||available|
+afrinic|ZZ|ipv6|2c0f:2284::|30||available|
+afrinic|ZZ|ipv6|2c0f:2288::|29||available|
+afrinic|ZZ|ipv6|2c0f:2290::|28||available|
+afrinic|ZZ|ipv6|2c0f:22a0::|27||available|
+afrinic|ZZ|ipv6|2c0f:22c0::|26||available|
 afrinic|NG|ipv6|2c0f:2300::|32|20211116|allocated|F362B2F5
 afrinic|ZZ|ipv6|2c0f:2301::|32||available|
 afrinic|ZZ|ipv6|2c0f:2302::|31||available|
