@@ -1,6 +1,6 @@
-2|afrinic|20220627|14063|00000000|20220627|00000
+2|afrinic|20220628|14067|00000000|20220628|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|4856|summary
+afrinic|*|ipv4|*|4860|summary
 afrinic|*|ipv6|*|5881|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
@@ -7908,6 +7908,9 @@ afrinic|ZZ|ipv4|102.177.208.0|4096||reserved|
 afrinic|ZZ|ipv4|102.177.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
+afrinic|ZZ|ipv4|102.215.4.0|1024||reserved|
+afrinic|ZZ|ipv4|102.215.12.0|1024||reserved|
+afrinic|ZZ|ipv4|102.215.16.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.28.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.32.0|4096||reserved|
 afrinic|ZZ|ipv4|102.215.48.0|1024||reserved|
@@ -7915,8 +7918,9 @@ afrinic|ZZ|ipv4|102.215.56.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.64.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.76.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.80.0|2048||reserved|
+afrinic|ZZ|ipv4|102.215.93.0|256||reserved|
 afrinic|ZZ|ipv4|102.215.97.0|256||reserved|
-afrinic|ZZ|ipv4|102.215.98.0|256||reserved|
+afrinic|ZZ|ipv4|102.215.98.0|512||reserved|
 afrinic|ZZ|ipv4|102.215.100.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.148.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.156.0|1024||reserved|
@@ -8169,10 +8173,10 @@ afrinic|ZZ|ipv4|102.192.0.0|1048576||available|
 afrinic|ZZ|ipv4|102.208.0.0|262144||available|
 afrinic|ZZ|ipv4|102.212.0.0|131072||available|
 afrinic|ZZ|ipv4|102.214.0.0|65536||available|
-afrinic|ZZ|ipv4|102.215.0.0|4096||available|
-afrinic|ZZ|ipv4|102.215.16.0|1024||available|
-afrinic|ZZ|ipv4|102.215.92.0|1024||available|
-afrinic|ZZ|ipv4|102.215.99.0|256||available|
+afrinic|ZZ|ipv4|102.215.0.0|1024||available|
+afrinic|ZZ|ipv4|102.215.8.0|1024||available|
+afrinic|ZZ|ipv4|102.215.92.0|256||available|
+afrinic|ZZ|ipv4|102.215.94.0|512||available|
 afrinic|ZZ|ipv4|102.216.48.0|2048||available|
 afrinic|ZZ|ipv4|102.216.56.0|1024||available|
 afrinic|ZZ|ipv4|102.216.131.0|256||available|
