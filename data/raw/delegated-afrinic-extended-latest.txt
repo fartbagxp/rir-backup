@@ -1,7 +1,7 @@
-2|afrinic|20220801|14146|00000000|20220801|00000
+2|afrinic|20220802|14153|00000000|20220802|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4884|summary
-afrinic|*|ipv6|*|5936|summary
+afrinic|*|ipv6|*|5943|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -4517,6 +4517,7 @@ afrinic|ZA|ipv4|102.215.172.0|1024|20220427|allocated|F363E07B
 afrinic|NG|ipv4|102.215.176.0|1024|20220421|allocated|F36FB8C3
 afrinic|AO|ipv4|102.215.180.0|1024|20220415|allocated|F36A1CEF
 afrinic|AO|ipv4|102.215.184.0|1024|20220520|allocated|F36D74C2
+afrinic|KE|ipv4|102.215.188.0|1024|20220801|allocated|F36724C2
 afrinic|ZA|ipv4|102.215.192.0|1024|20220420|allocated|F36C588D
 afrinic|LY|ipv4|102.215.196.0|1024|20220428|allocated|F3675292
 afrinic|ZA|ipv4|102.215.200.0|1024|20220526|allocated|F36D5C7B
@@ -7948,7 +7949,6 @@ afrinic|ZZ|ipv4|102.215.95.0|256||reserved|
 afrinic|ZZ|ipv4|102.215.100.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.148.0|1024||reserved|
 afrinic|ZZ|ipv4|102.215.156.0|1024||reserved|
-afrinic|ZZ|ipv4|102.215.188.0|1024||reserved|
 afrinic|ZZ|ipv4|102.216.131.0|256||reserved|
 afrinic|ZZ|ipv4|102.216.136.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.136.0|1024||reserved|
@@ -11287,7 +11287,14 @@ afrinic|ZZ|ipv6|2c0f:6c08::|29||available|
 afrinic|ZZ|ipv6|2c0f:6c10::|28||available|
 afrinic|ZZ|ipv6|2c0f:6c20::|27||available|
 afrinic|ZZ|ipv6|2c0f:6c40::|26||available|
-afrinic|ZZ|ipv6|2c0f:6c80::|25||available|
+afrinic|KE|ipv6|2c0f:6c80::|32|20220801|allocated|F36D8C86
+afrinic|ZZ|ipv6|2c0f:6c81::|32||available|
+afrinic|ZZ|ipv6|2c0f:6c82::|31||available|
+afrinic|ZZ|ipv6|2c0f:6c84::|30||available|
+afrinic|ZZ|ipv6|2c0f:6c88::|29||available|
+afrinic|ZZ|ipv6|2c0f:6c90::|28||available|
+afrinic|ZZ|ipv6|2c0f:6ca0::|27||available|
+afrinic|ZZ|ipv6|2c0f:6cc0::|26||available|
 afrinic|NG|ipv6|2c0f:6d00::|32|20210824|allocated|F3649F7F
 afrinic|ZZ|ipv6|2c0f:6d01::|32||available|
 afrinic|ZZ|ipv6|2c0f:6d02::|31||available|
