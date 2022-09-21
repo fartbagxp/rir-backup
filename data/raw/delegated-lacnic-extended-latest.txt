@@ -1,6 +1,6 @@
-2.3|lacnic|20220919|84571|19870101|20220919|-0300
+2.3|lacnic|20220920|84567|19870101|20220920|-0300
 lacnic|*|ipv4|*|19447|summary
-lacnic|*|ipv6|*|51262|summary
+lacnic|*|ipv6|*|51258|summary
 lacnic|*|asn|*|13862|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated|311598
@@ -4532,7 +4532,7 @@ lacnic|BR|ipv4|131.100.128.0|1024|20140814|allocated|132333
 lacnic|BR|ipv4|131.100.132.0|1024|20140818|allocated|199159
 lacnic|BR|ipv4|131.100.136.0|1024|20140818|allocated|194445
 lacnic|SV|ipv4|131.100.140.0|1024|20140815|allocated|52745
-lacnic|BR|ipv4|131.100.144.0|1024|20140821|allocated|221514
+lacnic|BR|ipv4|131.100.144.0|1024|20140821|allocated|194600
 lacnic|BR|ipv4|131.100.148.0|1024|20140815|allocated|200967
 lacnic|BR|ipv4|131.100.152.0|1024|20140818|allocated|115008
 lacnic|BR|ipv4|131.100.156.0|1024|20140818|allocated|302695
@@ -9133,7 +9133,7 @@ lacnic|BR|ipv4|177.52.224.0|2048|20110426|allocated|104463
 lacnic|BR|ipv4|177.52.232.0|2048|20121025|allocated|126212
 lacnic|BR|ipv4|177.52.240.0|1024|20110428|allocated|191779
 lacnic|BR|ipv4|177.52.244.0|1024|20120703|allocated|136800
-lacnic||ipv4|177.52.248.0|1024||reserved|
+lacnic|BR|ipv4|177.52.248.0|1024|20110428|allocated|135914
 lacnic|BR|ipv4|177.52.252.0|1024|20120704|allocated|126999
 lacnic|BR|ipv4|177.53.0.0|2048|20110505|allocated|314455
 lacnic|BR|ipv4|177.53.8.0|2048|20120711|allocated|314455
@@ -28820,11 +28820,7 @@ lacnic||ipv6|2801:80:3e91::|48||available
 lacnic||ipv6|2801:80:3e92::|47||available
 lacnic||ipv6|2801:80:3e94::|46||available
 lacnic||ipv6|2801:80:3e98::|45||available
-lacnic|BR|ipv6|2801:80:3ea0::|48|20210615|assigned|112425
-lacnic||ipv6|2801:80:3ea1::|48||available
-lacnic||ipv6|2801:80:3ea2::|47||available
-lacnic||ipv6|2801:80:3ea4::|46||available
-lacnic||ipv6|2801:80:3ea8::|45||available
+lacnic|BR|ipv6|2801:80:3ea0::|44|20220920|assigned|112425
 lacnic|BR|ipv6|2801:80:3eb0::|48|20210810|assigned|143108
 lacnic||ipv6|2801:80:3eb1::|48||available
 lacnic||ipv6|2801:80:3eb2::|47||available
@@ -49616,7 +49612,7 @@ lacnic||ipv6|2804:1c3e::|31||available
 lacnic|BR|ipv6|2804:1c40::|32|20140821|allocated|222314
 lacnic||ipv6|2804:1c41::|32||available
 lacnic||ipv6|2804:1c42::|31||available
-lacnic|BR|ipv6|2804:1c44::|32|20140821|allocated|221514
+lacnic||ipv6|2804:1c44::|32||reserved|
 lacnic||ipv6|2804:1c45::|32||available
 lacnic||ipv6|2804:1c46::|31||available
 lacnic|BR|ipv6|2804:1c48::|32|20140822|allocated|193402
@@ -51512,7 +51508,7 @@ lacnic||ipv6|2804:26ca::|31||available
 lacnic|BR|ipv6|2804:26cc::|32|20150716|allocated|152308
 lacnic||ipv6|2804:26cd::|32||available
 lacnic||ipv6|2804:26ce::|31||available
-lacnic||ipv6|2804:26d0::|32||reserved|
+lacnic|BR|ipv6|2804:26d0::|32|20150716|allocated|135914
 lacnic||ipv6|2804:26d1::|32||available
 lacnic||ipv6|2804:26d2::|31||available
 lacnic|BR|ipv6|2804:26d4::|32|20150717|allocated|240635
@@ -73661,7 +73657,7 @@ lacnic||asn|61641|1||reserved|
 lacnic|BR|asn|61642|1|20140820|allocated|198988
 lacnic|BR|asn|61643|1|20140826|allocated|222467
 lacnic|BR|asn|61644|1|20140821|allocated|222314
-lacnic|BR|asn|61645|1|20140821|allocated|221514
+lacnic||asn|61645|1||reserved|
 lacnic|BR|asn|61646|1|20140822|allocated|193402
 lacnic||asn|61647|1||reserved|
 lacnic|BR|asn|61648|1|20140822|allocated|144635
@@ -74323,7 +74319,7 @@ lacnic|BR|asn|262450|1|20110420|allocated|114486
 lacnic|BR|asn|262451|1|20110420|allocated|117650
 lacnic|BR|asn|262452|1|20110428|allocated|118686
 lacnic|BR|asn|262453|1|20110428|allocated|191779
-lacnic||asn|262454|1||reserved|
+lacnic|BR|asn|262454|1|20110428|allocated|135914
 lacnic|BR|asn|262455|1|20110504|allocated|103190
 lacnic|BR|asn|262456|1|20110505|allocated|113151
 lacnic|BR|asn|262457|1|20110505|allocated|128673
