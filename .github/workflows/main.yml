@@ -11,7 +11,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@e2f20e631ae6d7dd3b768f56a5d2af784dd54791 #v2.5.0
 
       - name: Install curl
         run: |
@@ -22,7 +22,7 @@ jobs:
           bash .github/backup.sh ${GITHUB_WORKSPACE}
 
       - name: Commit RIR changes
-        uses: EndBug/add-and-commit@v8
+        uses: EndBug/add-and-commit@61a88be553afe4206585b31aa72387c64295d08b #v9.1.1
         with:
           author_name: Github Action Bot
           author_email: noreply@github.com
@@ -32,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6 #v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
