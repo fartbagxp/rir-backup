@@ -1,4 +1,4 @@
-2|afrinic|20221113|14634|00000000|20221113|00000
+2|afrinic|20221114|14634|00000000|20221114|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4970|summary
 afrinic|*|ipv6|*|6338|summary
