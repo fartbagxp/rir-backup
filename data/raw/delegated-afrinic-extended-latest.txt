@@ -1,4 +1,4 @@
-2|afrinic|20230103|14819|00000000|20230103|00000
+2|afrinic|20230104|14819|00000000|20230104|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|5033|summary
 afrinic|*|ipv6|*|6460|summary
@@ -2692,7 +2692,7 @@ afrinic|ZA|asn|329088|1|20220621|allocated|F36ECD0F
 afrinic|ZA|asn|329089|1|20220621|allocated|F36C9EB4
 afrinic|LY|asn|329090|1|20220628|allocated|F365958D
 afrinic|ZA|asn|329091|1|20220630|allocated|F364C923
-afrinic|RE|asn|329092|1|20220630|allocated|F3630762
+afrinic|ZZ|asn|329092|1||reserved|
 afrinic|KE|asn|329093|1|20220706|allocated|F364F375
 afrinic|SS|asn|329094|1|20220706|allocated|F36954CA
 afrinic|SZ|asn|329095|1|20220706|allocated|F362EFF3
