@@ -1,4 +1,4 @@
-2.3|lacnic|20230113|85638|19870101|20230113|-0300
+2.3|lacnic|20230114|85638|19870101|20230113|-0300
 lacnic|*|ipv4|*|19603|summary
 lacnic|*|ipv6|*|51996|summary
 lacnic|*|asn|*|14039|summary
