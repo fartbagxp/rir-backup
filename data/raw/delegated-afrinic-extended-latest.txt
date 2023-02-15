@@ -1,6 +1,6 @@
-2|afrinic|20230214|14931|00000000|20230214|00000
+2|afrinic|20230215|14933|00000000|20230215|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|5069|summary
+afrinic|*|ipv4|*|5071|summary
 afrinic|*|ipv6|*|6536|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
@@ -1126,7 +1126,7 @@ afrinic|CD|asn|37730|1|20220506|allocated|F365C754
 afrinic|ZA|asn|37731|1|20220519|allocated|F3644DAE
 afrinic|KE|asn|37732|1|20221123|allocated|F362EF67
 afrinic|RE|asn|37733|1|20221213|allocated|F3630762
-afrinic|ZZ|asn|37734|1||available|
+afrinic|BF|asn|37734|1|20230214|allocated|F3627A02
 afrinic|ZZ|asn|37735|1||available|
 afrinic|ZZ|asn|37736|1||available|
 afrinic|ZZ|asn|37737|1||available|
@@ -1190,7 +1190,7 @@ afrinic|TD|asn|37794|1|20221013|allocated|F36C7A1B
 afrinic|LY|asn|37795|1|20221116|allocated|F36B583C
 afrinic|CV|asn|37796|1|20221116|allocated|F3646AE4
 afrinic|MU|asn|37797|1|20221212|allocated|F3674E56
-afrinic|BF|asn|37798|1|20230209|allocated|F3627A02
+afrinic|ZZ|asn|37798|1||reserved|
 afrinic|ZZ|asn|37799|1||reserved|
 afrinic|ZZ|asn|37800|1||reserved|
 afrinic|ZZ|asn|37801|1||reserved|
@@ -8067,6 +8067,7 @@ afrinic|ZZ|ipv4|102.177.208.0|4096||reserved|
 afrinic|ZZ|ipv4|102.177.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
+afrinic|ZZ|ipv4|102.212.108.0|1024||reserved|
 afrinic|ZZ|ipv4|102.212.112.0|1024||reserved|
 afrinic|ZZ|ipv4|102.212.172.0|1024||reserved|
 afrinic|ZZ|ipv4|102.212.176.0|2048||reserved|
@@ -8377,7 +8378,8 @@ afrinic|ZZ|ipv4|102.192.0.0|1048576||available|
 afrinic|ZZ|ipv4|102.208.0.0|262144||available|
 afrinic|ZZ|ipv4|102.212.0.0|16384||available|
 afrinic|ZZ|ipv4|102.212.64.0|8192||available|
-afrinic|ZZ|ipv4|102.212.96.0|4096||available|
+afrinic|ZZ|ipv4|102.212.96.0|2048||available|
+afrinic|ZZ|ipv4|102.212.104.0|1024||available|
 afrinic|ZZ|ipv4|102.212.116.0|1024||available|
 afrinic|ZZ|ipv4|102.212.120.0|2048||available|
 afrinic|ZZ|ipv4|102.212.132.0|1024||available|
