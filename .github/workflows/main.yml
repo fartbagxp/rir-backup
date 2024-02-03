@@ -24,7 +24,7 @@ jobs:
           bash backup.sh ${GITHUB_WORKSPACE}
 
       - name: Commit RIR changes
-        uses: EndBug/add-and-commit@v9.1.3
+        uses: EndBug/add-and-commit@v9.1.4
         with:
           author_name: Github Action Bot
           author_email: noreply@github.com
