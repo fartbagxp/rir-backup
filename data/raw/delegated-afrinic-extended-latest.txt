@@ -1,4 +1,4 @@
-2|afrinic|20260309|19092|00000000|20260309|00000
+2|afrinic|20260310|19092|00000000|20260310|00000
 afrinic|*|asn|*|4350|summary
 afrinic|*|ipv4|*|5914|summary
 afrinic|*|ipv6|*|8828|summary
@@ -1133,7 +1133,7 @@ afrinic|RW|asn|37737|1|20231020|allocated|F368D3D3
 afrinic|MA|asn|37738|1|20231022|allocated|F3614DFD
 afrinic|ZA|asn|37739|1|20240209|allocated|F36BF59B
 afrinic|SC|asn|37740|1|20240828|allocated|F36A413F
-afrinic|ZZ|asn|37741|1||available|
+afrinic|ZA|asn|37741|1|20260309|allocated|F369F058
 afrinic|ZZ|asn|37742|1||available|
 afrinic|ZZ|asn|37743|1||available|
 afrinic|ZZ|asn|37744|1||available|
@@ -3308,7 +3308,7 @@ afrinic|SN|asn|329704|1|20260213|allocated|F36EADB9
 afrinic|ZA|asn|329705|1|20260219|allocated|F3637FDB
 afrinic|NG|asn|329706|1|20260220|allocated|F366C036
 afrinic|KE|asn|329707|1|20260224|allocated|F36C67A4
-afrinic|ZA|asn|329708|1|20260224|allocated|F369F058
+afrinic|ZZ|asn|329708|1||reserved|
 afrinic|NG|asn|329709|1|20260228|allocated|F368B126
 afrinic|SZ|asn|329710|1|20260302|allocated|F36DCA7D
 afrinic|GH|asn|329711|1|20260303|allocated|F3619E43
