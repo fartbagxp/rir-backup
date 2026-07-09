@@ -238,6 +238,7 @@ ae.clodo
     CLODO CLOUD SERVICE CO. L.L.C
 
     19890329	132.243.112.0/20	ALLOCATED PA
+    20040407	157.228.112.0/20	ALLOCATED PA
     20041103	85.137.88.0/21	ALLOCATED PA
     20050210	80.74.24.0/21	ALLOCATED PA
     20051129	89.46.131.0/24	ALLOCATED PA
@@ -5348,6 +5349,7 @@ at.kitznet
 at.klagenfurt2
     Landeshauptstadt Klagenfurt am Woerthersee
 
+    20260709	94.127.21.0/24	ALLOCATED PA
     20250501	2a01:e400::/29
 
 at.knapp
@@ -5597,6 +5599,7 @@ at.makenewmedia
     MakeNewMedia Communications GmbH
 
     19970604	209.92.64.0/22	ALLOCATED PA
+    20260709	94.127.18.0/24	ALLOCATED PA
     20250428	2a00:8e40::/29
 
 at.massresponse
@@ -13241,6 +13244,7 @@ by.shambala
     Volha Khimiankova
 
     20140228	185.49.68.0/22	ALLOCATED PA
+    20260709	109.68.218.0/24	ALLOCATED PA
 
 by.unibel
     Institution Central Information and Analytical Center at the Ministry of Education of Belarus
@@ -16475,7 +16479,6 @@ ch.mercata
 
     20110927	159.255.151.0/24	ALLOCATED PA
     20190913	45.153.89.0/24	ALLOCATED PA
-    20240115	91.206.176.0/24	ALLOCATED PA
 
 ch.merkli
     Manuel Merkli
@@ -16986,6 +16989,11 @@ ch.oriented-net
 
     20130116	185.15.228.0/22	ALLOCATED PA
     20130107	2a03:b940::/32
+
+ch.origin
+    OpenEmail SA
+
+    20240115	91.206.176.0/24	ALLOCATED PA
 
 ch.ortcloud
     OrtCloud GmbH
@@ -42067,7 +42075,7 @@ de.wertron
     20160125	2a00:6680::/32
 
 de.westfalen
-    Westfalen Aktiengesellschaft
+    Westfalen Beteiligungen Aktiengesellschaft
 
     20190104	139.28.244.0/22	ALLOCATED PA
     20190104	2a09:d40::/29
@@ -43321,14 +43329,6 @@ dk.chrradioholding
     20080201	92.243.224.0/19	ALLOCATED PA
     20090109	213.140.64.0/19	ALLOCATED PA
     20091221	109.198.128.0/19	ALLOCATED PA
-
-dk.cloudfactory
-    Cloud Factory A/S
-
-    20080731	94.137.128.0/20	ALLOCATED PA
-    20170523	185.204.248.0/22	ALLOCATED PA
-    20190829	193.223.248.0/22	ALLOCATED PA
-    20170523	2a0a:ffc0::/29
 
 dk.cloudio
     Advania Danmark A/S
@@ -45226,6 +45226,7 @@ dk.teamblue
     20061030	91.133.32.0/19	ALLOCATED PA
     20070314	77.243.128.0/20	ALLOCATED PA
     20070920	91.197.248.0/22	ALLOCATED PA
+    20080731	94.137.128.0/20	ALLOCATED PA
     20081209	94.143.8.0/21	ALLOCATED PA
     20091021	195.178.14.0/23	ALLOCATED PA
     20091117	109.71.56.0/21	ALLOCATED PA
@@ -45240,9 +45241,11 @@ dk.teamblue
     20130506	185.25.140.0/22	ALLOCATED PA
     20160112	185.134.28.0/22	ALLOCATED PA
     20160606	185.154.240.0/22	ALLOCATED PA
+    20170523	185.204.248.0/22	ALLOCATED PA
     20170914	185.221.36.0/22	ALLOCATED PA
     20170928	185.223.24.0/22	ALLOCATED PA
     20181204	185.235.52.0/22	ALLOCATED PA
+    20190829	193.223.248.0/22	ALLOCATED PA
     20091028	2a00:1568::/32
     20100818	2a02:22c8::/32
     20100831	2a02:2338::/29
@@ -56008,6 +56011,7 @@ fi.oyforcit
     Oy Forcit Ab
 
     20210824	93.190.127.0/24	ALLOCATED PA
+    20260709	85.8.238.0/24	ALLOCATED PA
     20250425	2a14:fe80::/32
 
 fi.oyturku
@@ -60922,9 +60926,10 @@ fr.innotip
     20210507	2a10:f7c0::/29
 
 fr.innovest
-    INNOVEST SARL
+    Innovest Sarl
 
     20150910	185.116.232.0/24	ALLOCATED PA
+    20260709	85.8.239.0/24	ALLOCATED PA
     20250424	2a14:fa80::/29
 
 fr.inse
@@ -69155,6 +69160,11 @@ hr.barrage
     20180405	185.253.188.0/22	ALLOCATED PA
     20201020	2a10:d400::/29
 
+hr.bcs
+    Business Computer Systems d.o.o.
+
+    20260709	94.127.23.0/24	ALLOCATED PA
+
 hr.bit
     BIT d.o.o.
 
@@ -69607,8 +69617,8 @@ hr.telensa
     20160831	185.165.232.0/22	ALLOCATED PA
     20210924	2a11:42c0::/29
 
-hr.tonet1
-    TONet d.o.o.
+hr.tonet5
+    Tonet Telekom d.o.o.
 
     20200403	185.159.88.0/24	ALLOCATED PA
     20200615	91.208.100.0/24	ALLOCATED PA
@@ -72434,7 +72444,7 @@ ie.oath
     20140625	2a02:7da0::/32
 
 ie.obs
-    ORANGE BUSINESS COMMUNICATIONS TECHNOLOGY LIMITED
+    Orange Business Communications Technology Limited
 
     20200318	185.126.35.0/24	ALLOCATED PA
 
@@ -76284,6 +76294,7 @@ ir.arash64
 ir.araz-dc
     Enteghal Dadeh Araz Shomal Company PJSC
 
+    20191011	193.111.235.0/24	ALLOCATED PA
     20210819	31.216.62.0/24	ALLOCATED PA
     20250804	193.177.242.0/24	ALLOCATED PA
     20230406	2a13:ef80::/29
@@ -76506,6 +76517,11 @@ ir.atiyehkala
 
     20180131	185.244.52.0/22	ALLOCATED PA
     20180131	2a0d:2880::/29
+
+ir.atlasfood
+    ATLAS FOOD SUPPLY SYSTEM MODERN LLC
+
+    20260709	194.113.116.0/24	ALLOCATED PA
 
 ir.atrin
     Atrin Information & Communications Technology Company PJS
@@ -78147,7 +78163,7 @@ ir.mahannet9
 ir.mahannovin1
     Tejarat Pardaz Mahan Novin Co. Ltd
 
-    20191011	193.111.234.0/23	ALLOCATED PA
+    20191011	193.111.234.0/24	ALLOCATED PA
     20191011	193.134.100.0/23	ALLOCATED PA
     20240716	88.135.75.0/24	ALLOCATED PA
     20200605	2a09:9580::/29
@@ -78510,6 +78526,7 @@ ir.mohammadfazeli
 ir.mohsenbagheri
     Mohsen Bagheri
 
+    20260709	109.68.217.0/24	ALLOCATED PA
     20250423	2a14:f880::/29
 
 ir.mojtaba
@@ -79104,6 +79121,7 @@ ir.payacommunication
 
     19910923	153.51.0.0/19	ALLOCATED PA
     19910923	153.51.128.0/19	ALLOCATED PA
+    20071221	92.51.56.0/21	ALLOCATED PA
     20110428	31.40.4.0/23	ALLOCATED PA
     20110428	31.40.6.0/23	ALLOCATED PA
     20240115	91.206.177.0/24	ALLOCATED PA
@@ -79890,6 +79908,7 @@ ir.shahkar1
 ir.shahla
     Shahla Yadegar
 
+    20260709	94.127.17.0/24	ALLOCATED PA
     20250501	2a02:cc80::/29
 
 ir.shahnemat1
@@ -85377,6 +85396,11 @@ it.isiline
     20160331	185.145.84.0/22	ALLOCATED PA
     20110831	2a03:3d80::/29
     20180111	2a0c:8a80::/29
+
+it.ismartframe1
+    ISMARTFRAME SRL
+
+    20260709	94.127.19.0/24	ALLOCATED PA
 
 it.ispcdlan
     CDLAN SpA
@@ -92531,6 +92555,7 @@ lb.access1
     Khodor Kanso trading as Access Lebanon
 
     20060815	91.92.115.0/24	ALLOCATED PA
+    20260709	109.68.219.0/24	ALLOCATED PA
 
 lb.acs
     American Community School
@@ -98017,12 +98042,6 @@ md.level7
     IM Level 7 SRL
 
     20161121	2a0a:6480::/29
-
-md.linkservice
-    Linkservice LLC
-
-    20071221	92.51.56.0/21	ALLOCATED PA
-    20140305	2a01:a320::/32
 
 md.lookin-link
     Lookin-link SRL
@@ -120565,6 +120584,11 @@ ro.evh008
 
     20260623	78.108.122.0/24	ALLOCATED PA
 
+ro.evh009
+    EVERHOST SRL
+
+    20260709	94.127.16.0/24	ALLOCATED PA
+
 ro.evh6
     EVERHOST SRL
 
@@ -120654,6 +120678,11 @@ ro.extra
     20191122	194.127.194.0/24	ALLOCATED PA
     20200930	185.194.15.0/24	ALLOCATED PA
     20200930	2a10:71c0::/32
+
+ro.fiberx
+    DevGeeks SRL
+
+    20260709	2a07:a180::/29
 
 ro.firstit
     Alttab Profit SRL
@@ -146449,6 +146478,7 @@ si.unija
 si.united
     United Cloud Inovacijski Center d.o.o.
 
+    20260709	109.68.220.0/24	ALLOCATED PA
     20250422	2a14:f480::/29
 
 si.xenya
@@ -148761,6 +148791,11 @@ tr.carrefoursa
     20190531	45.84.16.0/22	ALLOCATED PA
     20190531	2a0e:9280::/29
 
+tr.casper
+    Casper Bilgisayar Sistemleri A.S.
+
+    20260709	94.127.20.0/24	ALLOCATED PA
+
 tr.cdnbt
     Cdnbt Bilgi Teknolojileri ve Hizmetleri Limited Sirketi
 
@@ -149361,6 +149396,7 @@ tr.exodus
     EXODUS DANISMANLIK SANAYI VE TICARET LTD STI
 
     20210921	194.9.180.0/24	ALLOCATED PA
+    20260709	109.68.216.0/24	ALLOCATED PA
     20260302	2a12:8740::/29
 
 tr.expresnetcomtr
@@ -152742,6 +152778,7 @@ tr.uyumsoft
     20100517	109.175.218.0/24	ALLOCATED PA
     20100517	109.175.222.0/24	ALLOCATED PA
     20100517	109.175.241.0/24	ALLOCATED PA
+    20260709	94.127.22.0/24	ALLOCATED PA
 
 tr.uzaknet
     Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti
@@ -169006,7 +169043,7 @@ uk.sportingsolutions
     20191115	193.58.154.0/24	ALLOCATED PA
 
 uk.spotnorth
-    SPOT NORTH EAST LTD
+    LATOS SOVEREIGNTY AI LTD
 
     20150312	185.91.112.0/22	ALLOCATED PA
     20150312	2a05:ea80::/29
@@ -172615,7 +172652,7 @@ us.biorad-lab
     20121022	2a03:2840::/32
 
 us.bitrion
-    Bitrion LLC
+    Spectriot LLC
 
     20190228	85.209.204.0/22	ALLOCATED PA
     20190909	45.150.220.0/22	ALLOCATED PA
