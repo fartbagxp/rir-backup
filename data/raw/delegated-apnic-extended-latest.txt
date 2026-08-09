@@ -25,8 +25,8 @@
 #
 ######################################################################
 #
-2.3|apnic|20260809|189035||20260807|+1000
-apnic|*|asn|*|14644|summary
+2.3|apnic|20260810|189036||20260809|+1000
+apnic|*|asn|*|14645|summary
 apnic|*|ipv4|*|61428|summary
 apnic|*|ipv6|*|112963|summary
 apnic|AU|ipv4|1.0.0.0|256|20110811|assigned|A91872ED
@@ -175801,7 +175801,7 @@ apnic|AU|asn|17985|1|20071114|allocated|A913C627
 apnic|AU|asn|17986|1|20011030|allocated|A9172506
 apnic|AU|asn|17987|1|20061020|allocated|A9173BF5
 apnic|HK|asn|17988|1|20011031|allocated|A91A9619
-apnic||asn|17989|1||reserved|
+apnic||asn|17989|1||available|
 apnic|HK|asn|17990|1|20011101|allocated|A91993A0
 apnic||asn|17991|1||available|
 apnic|MY|asn|17992|1|20011102|allocated|A91650A5
@@ -189061,6 +189061,7 @@ apnic|HK|asn|154811|1|20260806|allocated|A917BAC9
 apnic|ID|asn|154812|1|20260807|allocated|A9186214
 apnic|IN|asn|154813|1|20260807|allocated|A91E4704
 apnic|VN|asn|154814|2|20260807|allocated|A91A560A
-apnic||asn|154816|1146||available|
+apnic|BD|asn|154816|1|20260809|allocated|A9116679
+apnic||asn|154817|1145||available|
 apnic|HK|asn|199073|1|20230329|allocated|A91AB1C2
 apnic|KR|asn|202348|1|20221012|allocated|A9134ACE
