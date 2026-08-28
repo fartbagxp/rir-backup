@@ -9202,11 +9202,6 @@ be.infvanbreda
     20160316	185.143.188.0/22	ALLOCATED PA
     20160316	2a07:37c0::/29
 
-be.instomar-intl
-    Instomar International BV
-
-    20161006	2a0a:df00::/29
-
 be.intellinet
     Intellinet BV
 
@@ -11376,7 +11371,7 @@ bg.jobsbg
     20150917	185.117.188.0/22	ALLOCATED PA
 
 bg.kig-unisat-tv
-    K and D UNISAT -TV LLC
+    K and G UNISAT -TV LLC
 
     20180118	185.242.88.0/22	ALLOCATED PA
     20180118	2a0c:c680::/29
@@ -17009,7 +17004,7 @@ ch.openbusiness
     20110216	2a00:a500::/32
 
 ch.openfactory
-    Openfactory GmbH in Liquidation
+    Openfactory GmbH
 
     20120907	5.226.144.0/21	ALLOCATED PA
     20140102	185.44.80.0/23	ALLOCATED PA
@@ -32150,6 +32145,11 @@ de.it-nrw
     20080527	93.184.128.0/20	ALLOCATED PA
     20150225	2a05:d880::/30
 
+de.it-sit
+    Sebastian Itting
+
+    20260828	2a0d:a740::/29
+
 de.it2media
     IT2media GmbH & Co. KG
 
@@ -41077,7 +41077,8 @@ de.tv-one
 de.twinwave
     Sam Maleki
 
-    19970528	195.96.32.0/19	ALLOCATED PA
+    19970528	195.96.32.0/21	ALLOCATED PA
+    19970528	195.96.48.0/20	ALLOCATED PA
 
 de.twkkaiserslautern
     DEMANDO GmbH
@@ -74807,6 +74808,7 @@ in.hostroyale
     20171229	103.106.184.0/22	ALLOCATED PA
     20180307	103.110.160.0/22	ALLOCATED PA
     20180403	185.253.68.0/22	ALLOCATED PA
+    20180410	103.113.29.0/24	ALLOCATED PA
     20180416	103.113.208.0/22	ALLOCATED PA
     20180509	193.201.248.0/22	ALLOCATED PA
     20180517	194.48.164.0/22	ALLOCATED PA
@@ -109750,6 +109752,7 @@ nl.wbtg
 nl.wdvegmond
     WDV Egmond Holding BV
 
+    20011123	80.46.128.0/19	ALLOCATED PA
     20190412	45.8.24.0/23	ALLOCATED PA
     20190412	45.8.26.0/24	ALLOCATED PA
     20190426	45.11.52.0/22	ALLOCATED PA
@@ -114687,7 +114690,7 @@ pl.fondlarpl
     20161107	2a0a:1a80::/29
 
 pl.fone
-    Hawe Telekom S.A. in Restructuring
+    Hawe Telekom S.A.
 
     20070305	77.242.224.0/20	ALLOCATED PA
     20070918	78.159.64.0/19	ALLOCATED PA
@@ -122213,7 +122216,6 @@ ro.profisol
 
     20141010	185.72.240.0/22	ALLOCATED PA
     20160520	103.219.212.0/23	ALLOCATED PA
-    20180410	103.113.29.0/24	ALLOCATED PA
     20130418	2a04:2b80::/29
     20181107	2a09:4200::/29
 
@@ -125074,6 +125076,7 @@ ru.bt-soln
 ru.bureau1440
     Bureau 1440 LLC
 
+    19970528	195.96.40.0/21	ALLOCATED PA
     20250804	2a0b:4e80::/29
 
 ru.burgerking
@@ -128070,6 +128073,7 @@ ru.imob
     20081120	217.12.42.0/23	ALLOCATED PA
     20081120	217.12.44.0/22	ALLOCATED PA
     20081211	94.141.116.0/22	ALLOCATED PA
+    20130115	185.15.188.0/22	ALLOCATED PA
     20130222	2a00:46e0::/32
 
 ru.imolniya
@@ -130608,12 +130612,6 @@ ru.matrixtelecom
     20110321	2a02:6d00::/32
     20121123	2a02:e880::/29
     20191126	2a0f:bec0::/32
-
-ru.mavotel
-    MAVOTEL LLC
-
-    20130115	185.15.188.0/22	ALLOCATED PA
-    20130111	2a03:c4c0::/32
 
 ru.maxhost
     Max Host LLC
@@ -153559,6 +153557,7 @@ ua.astra-lviv1
     20211104	212.23.203.0/24	ALLOCATED PA
     20240109	95.141.245.0/24	ALLOCATED PA
     20240109	185.167.78.0/24	ALLOCATED PA
+    20240110	185.46.143.0/24	ALLOCATED PA
     20200414	2a10:2f40::/29
     20240112	2a14:7280::/29
 
@@ -154068,7 +154067,6 @@ ua.fopmichail
 ua.foppavlyshyn
     Pavlyshyn Stepan Romanovych
 
-    20240110	185.46.143.0/24	ALLOCATED PA
     20240112	2a14:7480::/29
 
 ua.fopskoruk
@@ -159264,6 +159262,14 @@ uk.cogecopeer1
     20091023	2a00:1540::/32
     20110207	2a03:8a00::/32
     20121023	2a02:d680::/30
+
+uk.cogent
+    Cogent Communications UK ltd.
+
+    20000519	213.206.128.0/19	ALLOCATED PA
+    20031027	82.195.160.0/19	ALLOCATED PA
+    20060622	89.191.192.0/19	ALLOCATED PA
+    20090324	2a02:bf8::/32
 
 uk.cognizant
     Cognizant Worldwide Limited
@@ -166760,7 +166766,7 @@ uk.opalnet
     20011123	80.40.0.0/14	ALLOCATED PA
     20011123	80.44.0.0/15	ALLOCATED PA
     20011123	80.46.0.0/17	ALLOCATED PA
-    20011123	80.46.128.0/18	ALLOCATED PA
+    20011123	80.46.160.0/19	ALLOCATED PA
     20011123	80.46.192.0/19	ALLOCATED PA
     20011123	80.47.64.0/18	ALLOCATED PA
     20011123	80.47.128.0/18	ALLOCATED PA
@@ -169402,14 +169408,6 @@ uk.spotnorth
     20150312	185.91.112.0/22	ALLOCATED PA
     20150312	2a05:ea80::/29
 
-uk.sprintlink
-    Sprintlink UK Ltd
-
-    20000519	213.206.128.0/19	ALLOCATED PA
-    20031027	82.195.160.0/19	ALLOCATED PA
-    20060622	89.191.192.0/19	ALLOCATED PA
-    20090324	2a02:bf8::/32
-
 uk.square-enix
     Square Enix Limited
 
@@ -171506,6 +171504,11 @@ uk.wakefieldcouncil
     City of Wakefield Metropolitan District Council
 
     20180220	185.78.192.0/22	ALLOCATED PA
+
+uk.wallstreetdocs
+    WallStreetDocs Ltd
+
+    20260828	2a0d:a400::/29
 
 uk.wandera
     JAMF LTD
