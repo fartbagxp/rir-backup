@@ -476,13 +476,6 @@ ae.directcursus
     20251219	109.71.159.0/24	ALLOCATED PA
     20240426	2a14:48c0::/29
 
-ae.dreamscapenetworks
-    DreamScape Networks FZ-LLC
-
-    20110615	176.74.24.0/21	ALLOCATED PA
-    20170105	185.184.152.0/22	ALLOCATED PA
-    20110603	2a00:fd80::/32
-
 ae.dsg
     Digital Dubai Government Establishment
 
@@ -4344,7 +4337,6 @@ at.dialog
 at.dic
     DIC Online Wolf Ltd & Co. KG
 
-    20020102	81.16.104.0/22	ALLOCATED PA
     20020102	81.16.108.0/22	ALLOCATED PA
     20101125	2a02:2b10::/32
 
@@ -5912,6 +5904,7 @@ at.nextlayer
     20010419	217.175.196.0/22	ALLOCATED PA
     20010419	217.175.200.0/21	ALLOCATED PA
     20020102	81.16.96.0/21	ALLOCATED PA
+    20020102	81.16.104.0/22	ALLOCATED PA
     20021122	217.194.145.0/24	ALLOCATED PA
     20021122	217.194.146.0/23	ALLOCATED PA
     20021122	217.194.149.0/24	ALLOCATED PA
@@ -6936,7 +6929,7 @@ at.wienerlinien
     20190404	2a0e:1800::/29
 
 at.willhaben
-    willhaben internet service GmbH & Co KG
+    willhaben internet service GmbH
 
     20191004	193.19.120.0/23	ALLOCATED PA
     20191004	193.22.104.0/23	ALLOCATED PA
@@ -7535,12 +7528,6 @@ az.connect
     20121130	2a02:ecc0::/29
     20140423	2a04:d380::/29
 
-az.easynetvvork1
-    Easy Netvvork LLC
-
-    20240618	81.30.97.0/24	ALLOCATED PA
-    20230124	2a13:d400::/29
-
 az.ehim
     Innovation and Digital Development Agency (Public Legal Entity)
 
@@ -7703,6 +7690,7 @@ az.netpoint
     NetPoint LLC
 
     20170913	185.220.180.0/22	ALLOCATED PA
+    20240618	81.30.97.0/24	ALLOCATED PA
     20170913	2a0b:fa40::/29
 
 az.netservices
@@ -31366,6 +31354,11 @@ de.iks-saarbruecken
     20260304	194.54.69.0/24	ALLOCATED PA
     20250724	2a0a:bec0::/32
 
+de.iktsolutions
+    IKT Solutions UG (haftungsbeschraenkt)
+
+    20260925	2a0f:8780::/29
+
 de.ilk
     ILK Internet GmbH Rechnerkommunikation im Internet
 
@@ -44096,12 +44089,6 @@ dk.greenhost
     20211123	2a12:5d80::/29
     20240521	2a14:50c0::/29
 
-dk.greenwavemobileiot
-    Greenwave Mobile IoT ApS
-
-    20180206	185.245.48.0/22	ALLOCATED PA
-    20180206	2a0d:4b80::/29
-
 dk.grontmijcarlbro
     Sweco Danmark A/S
 
@@ -48203,6 +48190,11 @@ es.blancatel
     20231123	185.159.246.0/24	ALLOCATED PA
     20220803	2a13:880::/29
 
+es.blumhost
+    Miguel Taboada Iglesias
+
+    20260925	2a0f:ae00::/29
+
 es.boe
     Boletin Oficial del Estado
 
@@ -49380,6 +49372,11 @@ es.egone
     20171213	185.236.181.0/24	ALLOCATED PA
     20171213	185.236.182.0/23	ALLOCATED PA
     20210726	213.173.36.0/24	ALLOCATED PA
+
+es.eixam
+    Eixam Technologies, S.L.
+
+    20260925	2a0f:7940::/29
 
 es.ejie
     E.J.I.E. - EUSKO JAURLARITZAREN INFORMATIKA ELKARTEA - SOCIEDAD INFORMATICA DEL GOBIERNO VASCO S.A.
@@ -52425,7 +52422,7 @@ es.ono
     20041105	85.155.0.0/21	ALLOCATED PA
     20041105	85.155.8.0/22	ALLOCATED PA
     20041105	85.155.12.0/23	ALLOCATED PA
-    20041105	85.155.208.0/20	ALLOCATED PA
+    20041105	85.155.216.0/21	ALLOCATED PA
     20050131	85.219.0.0/17	ALLOCATED PA
     20050207	85.251.0.0/16	ALLOCATED PA
     20060213	89.140.0.0/15	ALLOCATED PA
@@ -60057,6 +60054,7 @@ fr.evtech
 fr.exaion
     Exaion SAS
 
+    19960202	194.238.46.0/24	ALLOCATED PA
     20050401	163.114.159.0/24	ALLOCATED PA
     20090403	95.175.153.0/24	ALLOCATED PA
     20200604	91.239.56.0/24	ALLOCATED PA
@@ -84947,6 +84945,7 @@ it.halservice
 
     19990323	212.28.168.0/21	ALLOCATED PA
     20001018	217.28.64.0/22	ALLOCATED PA
+    20041105	85.155.208.0/21	ALLOCATED PA
     20051129	89.37.70.0/23	ALLOCATED PA
     20070301	77.242.128.0/20	ALLOCATED PA
     20071203	79.108.152.0/21	ALLOCATED PA
@@ -113972,6 +113971,11 @@ pl.cellnex
     20160106	185.133.160.0/22	ALLOCATED PA
     20260119	95.143.101.0/24	ALLOCATED PA
     20240619	2a12:ff40::/29
+
+pl.centralny
+    Centralny Osrodek Informatyki
+
+    20260925	2a0f:6a80::/29
 
 pl.centuria3
     CENTURIA S.A
@@ -146166,6 +146170,13 @@ sg.djvg
     20181130	194.93.20.0/22	ALLOCATED PA
     20181130	2a09:2280::/29
 
+sg.dreamscape-singapore
+    DREAMSCAPE NETWORKS INTERNATIONAL PTE. LTD
+
+    20110615	176.74.24.0/21	ALLOCATED PA
+    20170105	185.184.152.0/22	ALLOCATED PA
+    20110603	2a00:fd80::/32
+
 sg.edgecloud
     Edge Cloud (SG) Pte. Ltd.
 
@@ -150287,6 +150298,11 @@ tr.hatfiber
     20240109	213.134.12.0/24	ALLOCATED PA
     20220915	2a07:f040::/29
 
+tr.havaalanlari
+    HAVAALANLARI YER HIZMETLERI A.S.
+
+    20260925	2a0f:7dc0::/29
+
 tr.hayalnet
     Hayalnet Telekomunikasyon Iletisim Ticaret Limited Sirketi
 
@@ -151597,6 +151613,11 @@ tr.netuvbilisimas
     20260420	91.199.105.0/24	ALLOCATED PA
     20241210	2a14:e400::/29
 
+tr.netvia
+    Netvia Bilisim Yazilim Danismanlik Ticaret Limited Sirketi
+
+    20260925	2a0f:6d00::/29
+
 tr.netviser
     Netviser Bilisim Teknolojileri San. Ve Tic. Ltd. Sti.
 
@@ -152565,6 +152586,7 @@ tr.surnetteknoloji
     SURNET ILETISIM TEKNOLOJI TIC VE SAN LTD STI
 
     19900406	131.222.255.0/24	ALLOCATED PA
+    19910923	153.56.172.0/24	ALLOCATED PA
     20170323	185.195.252.0/24	ALLOCATED PA
     20210401	193.22.12.0/24	ALLOCATED PA
     20210618	185.130.90.0/24	ALLOCATED PA
@@ -168360,7 +168382,6 @@ uk.researchmachines
     19950927	194.154.0.0/20	ALLOCATED PA
     19950927	194.154.16.0/21	ALLOCATED PA
     19960202	194.238.32.0/21	ALLOCATED PA
-    19960202	194.238.46.0/24	ALLOCATED PA
     19960202	194.238.48.0/21	ALLOCATED PA
     19960202	194.238.60.0/22	ALLOCATED PA
     19960202	194.238.64.0/21	ALLOCATED PA
@@ -173045,6 +173066,12 @@ us.aventice
     20190830	45.147.60.0/22	ALLOCATED PA
     20190916	45.153.236.0/22	ALLOCATED PA
     20191104	2a0f:4cc0::/29
+
+us.axonnetworks
+    AXON Networks Inc.
+
+    20180206	185.245.48.0/22	ALLOCATED PA
+    20180206	2a0d:4b80::/29
 
 us.az-intl
     AZ International L.L.C.
