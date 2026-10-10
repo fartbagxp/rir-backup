@@ -3424,7 +3424,7 @@ am.idbank
     20231024	2a14:200::/29
 
 am.iiap
-    Institute for Informatics and Automation Problems of National Academy of Sciences of the Republic of Armenia
+    Institute for Informatics and Automation Problems
 
     20040329	195.225.234.0/23	ALLOCATED PA
     20080722	93.187.160.0/21	ALLOCATED PA
@@ -6423,11 +6423,6 @@ at.scc
     20141211	185.80.240.0/22	ALLOCATED PA
     20141211	2a05:83c0::/29
 
-at.schmelzer
-    Mario Schmelzer
-
-    20200610	2a0b:a1c0::/29
-
 at.schneeberger
     Schneeberger GmbH
 
@@ -6899,7 +6894,9 @@ at.viennaairport
 at.viennaweb
     Internet Viennaweb Service GmbH
 
-    19970424	195.110.192.0/19	ALLOCATED PA
+    19970424	195.110.192.0/20	ALLOCATED PA
+    19970424	195.110.208.0/21	ALLOCATED PA
+    19970424	195.110.220.0/22	ALLOCATED PA
     20060908	89.31.128.0/21	ALLOCATED PA
     20070723	78.40.212.0/22	ALLOCATED PA
     20111104	2a03:da80::/32
@@ -7526,6 +7523,7 @@ az.bakcell
 az.bankrespublika
     Bank Respublika OJSC
 
+    19910509	149.170.148.0/24	ALLOCATED PA
     20251230	2a04:9e40::/29
 
 az.beeonline
@@ -9591,6 +9589,11 @@ be.ontex
 
     20171004	185.223.224.0/22	ALLOCATED PA
     20171004	2a0c:7400::/29
+
+be.openanalytics
+    Open Analytics NV
+
+    20261009	2a10:c080::/29
 
 be.opens
     OpenS SPRL
@@ -16427,7 +16430,7 @@ ch.levantis-ag
     20101209	2a00:c800::/32
 
 ch.lithium
-    Khoros International, LLC, Wilmington, USA, Zweigniederlassung Zurich
+    Khoros International, LLC
 
     20101117	46.19.168.0/21	ALLOCATED PA
 
@@ -32631,12 +32634,6 @@ de.kabelsat
     20151120	185.127.208.0/22	ALLOCATED PA
     20151120	2a06:cbc0::/29
 
-de.kadsoft
-    swissnet ICT GmbH
-
-    20160519	185.152.208.0/22	ALLOCATED PA
-    20170626	2a0b:52c0::/32
-
 de.kaemi
     KAEMI GmbH
 
@@ -42439,6 +42436,12 @@ de.wnp
     20080917	94.126.72.0/21	ALLOCATED PA
     20260528	2a01:980::/29
 
+de.woa
+    WOA GmbH
+
+    20160519	185.152.208.0/22	ALLOCATED PA
+    20170626	2a0b:52c0::/32
+
 de.wobcom
     Wobcom GmbH
 
@@ -46571,6 +46574,7 @@ ee.smartape
     19921027	141.133.172.0/22	ALLOCATED PA
     19930901	159.200.240.0/22	ALLOCATED PA
     19930901	193.124.56.0/22	ALLOCATED PA
+    19970424	195.110.216.0/22	ALLOCATED PA
     20041103	85.137.164.0/22	ALLOCATED PA
     20061016	91.184.248.0/22	ALLOCATED PA
     20071213	92.61.70.0/23	ALLOCATED PA
@@ -58203,6 +58207,12 @@ fr.bordeauxmetropoleripe
 
     20260504	185.43.35.0/24	ALLOCATED PA
 
+fr.boring
+    Boring Infrastructure SASU
+
+    20230807	91.193.91.0/24	ALLOCATED PA
+    20250827	2a04:d580::/32
+
 fr.botify
     Botify SAS
 
@@ -60555,7 +60565,7 @@ fr.guizmo
     20200121	2a0c:9b80::/29
 
 fr.gva
-    Group Vivendi Africa SAS
+    Canal+ Telecom Africa SAS
 
     20110707	146.0.64.0/21	ALLOCATED PA
     20140430	185.56.48.0/22	ALLOCATED PA
@@ -60976,11 +60986,6 @@ fr.infodesca
     INFODESCA SARL
 
     20180829	109.73.136.0/22	ALLOCATED PA
-
-fr.infogair
-    Vincent PAGES
-
-    20200128	2a10:1800::/29
 
 fr.infogenius
     InfoGenius SAS
@@ -62038,12 +62043,6 @@ fr.m6dd
     20200916	185.190.88.0/24	ALLOCATED PA
     20110204	2a03:4600::/29
     20200916	2a10:6540::/29
-
-fr.ma2t-holding
-    Boring Infrastructure SASU
-
-    20230807	91.193.91.0/24	ALLOCATED PA
-    20250827	2a04:d580::/32
 
 fr.madrigall
     Madrigall SA
@@ -64642,22 +64641,14 @@ fr.serinya
     20220224	91.208.85.0/24	ALLOCATED PA
     20220407	5.42.193.0/24	ALLOCATED PA
     20220801	195.24.244.0/24	ALLOCATED PA
+    20230213	83.97.74.0/24	ALLOCATED PA
+    20230531	217.197.109.0/24	ALLOCATED PA
     20110630	2a01:9d80::/32
 
 fr.serinya10
     Serinya Telecom SAS
 
     20230419	91.217.118.0/24	ALLOCATED PA
-
-fr.serinya11
-    Serinya Telecom SAS
-
-    20230531	217.197.109.0/24	ALLOCATED PA
-
-fr.serinya9
-    Serinya Telecom SAS
-
-    20230213	83.97.74.0/24	ALLOCATED PA
 
 fr.serortech
     SEROR TECHNOLOGIES SASU
@@ -72283,17 +72274,12 @@ ie.imagine
     20040914	83.141.64.0/18	ALLOCATED PA
     20050603	87.192.64.0/20	ALLOCATED PA
     20050603	87.192.82.0/23	ALLOCATED PA
-    20050603	87.192.84.0/22	ALLOCATED PA
-    20050603	87.192.216.0/22	ALLOCATED PA
     20050603	87.192.222.0/23	ALLOCATED PA
     20050701	87.232.0.0/19	ALLOCATED PA
     20050701	87.232.192.0/24	ALLOCATED PA
     20050701	87.232.194.0/23	ALLOCATED PA
-    20050701	87.232.196.0/22	ALLOCATED PA
-    20050701	87.232.228.0/22	ALLOCATED PA
-    20060308	89.124.0.0/21	ALLOCATED PA
+    20060308	89.124.0.0/22	ALLOCATED PA
     20060308	89.124.240.0/23	ALLOCATED PA
-    20060308	89.127.248.0/22	ALLOCATED PA
     20060308	89.127.254.0/23	ALLOCATED PA
     20070704	78.135.128.0/17	ALLOCATED PA
     20180227	185.247.52.0/22	ALLOCATED PA
@@ -72732,6 +72718,12 @@ ie.polarlake
 ie.premier
     Premier Data Networks LTD
 
+    20050603	87.192.84.0/22	ALLOCATED PA
+    20050603	87.192.216.0/22	ALLOCATED PA
+    20050701	87.232.196.0/22	ALLOCATED PA
+    20050701	87.232.228.0/22	ALLOCATED PA
+    20060308	89.124.4.0/22	ALLOCATED PA
+    20060308	89.127.248.0/22	ALLOCATED PA
     20060329	89.106.136.0/21	ALLOCATED PA
     20120323	37.203.48.0/21	ALLOCATED PA
     20140812	185.67.20.0/22	ALLOCATED PA
@@ -124267,6 +124259,7 @@ ru.adminvps
     19911202	155.212.245.0/24	ALLOCATED PA
     19911202	155.212.246.0/23	ALLOCATED PA
     19940324	168.113.156.0/22	ALLOCATED PA
+    19940324	168.113.168.0/21	ALLOCATED PA
     19940324	168.113.208.0/22	ALLOCATED PA
     19971014	157.22.172.0/23	ALLOCATED PA
     19971014	157.22.174.0/23	ALLOCATED PA
@@ -143145,6 +143138,11 @@ se.coresec
     20150421	185.96.248.0/22	ALLOCATED PA
     20150421	2a06:2c0::/29
 
+se.cparta
+    Cparta Cyber Defense AB
+
+    20261009	2a10:de00::/32
+
 se.cybercom
     Cygrids Communications AB
 
@@ -146316,6 +146314,7 @@ sg.wisdom-cloud
 sg.wlx
     WLX PTE. LTD.
 
+    20011123	80.46.192.0/19	ALLOCATED PA
     20260501	2a0d:36c0::/29
 
 sg.xtom
@@ -155240,7 +155239,7 @@ ua.nexus-delta
     20221121	2a13:3ac0::/29
 
 ua.nktv
-    NKTV Ltd.
+    Mykolaivske Kabelne Telebachennia TOV
 
     20060223	81.24.208.0/20	ALLOCATED PA
     20181030	194.35.60.0/22	ALLOCATED PA
@@ -159410,13 +159409,6 @@ uk.clouvider
     20231102	2a14:100::/29
     20240604	2a0c:19c0::/29
 
-uk.clouvider14
-    Dominik Nowacki
-
-    20191031	194.127.172.0/23	ALLOCATED PA
-    20191031	194.127.178.0/23	ALLOCATED PA
-    20200814	2a10:4dc0::/29
-
 uk.clouvider18
     Julita Oskroba
 
@@ -160688,6 +160680,13 @@ uk.dms
     CapRock UK Ltd
 
     19990415	212.39.160.0/19	ALLOCATED PA
+
+uk.dnowacki
+    Dominik Nowacki
+
+    20191031	194.127.172.0/23	ALLOCATED PA
+    20191031	194.127.178.0/23	ALLOCATED PA
+    20200814	2a10:4dc0::/29
 
 uk.doc4pc
     Octopus Telecom Ltd
@@ -164783,11 +164782,6 @@ uk.leidos
     20161110	185.177.64.0/22	ALLOCATED PA
     20120221	2a00:a2c0::/32
 
-uk.lfeurope
-    LF Europe Ltd
-
-    20190206	5.252.208.0/22	ALLOCATED PA
-
 uk.lfhc2
     LF Holdco 2 Limited
 
@@ -166965,7 +166959,6 @@ uk.opalnet
     20011123	80.42.0.0/16	ALLOCATED PA
     20011123	80.44.0.0/15	ALLOCATED PA
     20011123	80.46.0.0/17	ALLOCATED PA
-    20011123	80.46.192.0/19	ALLOCATED PA
     20011123	80.47.96.0/19	ALLOCATED PA
     20011123	80.47.160.0/19	ALLOCATED PA
     20020117	81.1.64.0/18	ALLOCATED PA
@@ -175841,6 +175834,12 @@ us.njbbrands
 
     20160722	2a07:bd80::/29
 
+us.no-ip
+    No-IP Technologies, LLC
+
+    20180523	194.62.180.0/22	ALLOCATED PA
+    20180523	2a07:dc00::/29
+
 us.noelcorporation
     The Noel Corporation
 
@@ -177256,12 +177255,6 @@ us.vitalng
 
     20160506	185.151.12.0/22	ALLOCATED PA
     20160517	2a07:8080::/29
-
-us.vitalwerks
-    Vitalwerks Internet Solutions LLC
-
-    20180523	194.62.180.0/22	ALLOCATED PA
-    20180523	2a07:dc00::/29
 
 us.vps-net
     Hosting Services Inc
