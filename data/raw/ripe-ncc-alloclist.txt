@@ -1912,6 +1912,11 @@ ae.oryxlabs
     20190911	45.152.134.0/24	ALLOCATED PA
     20190911	45.152.135.0/24	ALLOCATED PA
 
+ae.play2go
+    PLAY2GO - FZCO
+
+    20261015	2a11:6480::/29
+
 ae.playco
     Playco Entertainment FZ LLC
 
@@ -15747,7 +15752,7 @@ ch.hp-ch-net2
     20190212	2a09:64c0::/29
 
 ch.hpe
-    Hewlett Packard International Sarl
+    Hewlett-Packard International Sarl
 
     20160928	185.170.48.0/22	ALLOCATED PA
     20161007	2a0a:fb00::/32
@@ -39909,7 +39914,7 @@ de.ta-systeme
     20110622	2a01:7e80::/32
 
 de.taconsulting
-    TA Consulting & Services UG
+    TA Consulting & Services GmbH
 
     19950717	206.204.104.0/22	ALLOCATED PA
     20140307	209.161.104.0/22	ALLOCATED PA
@@ -54243,7 +54248,6 @@ es.uni2
     20100317	212.232.96.0/20	ALLOCATED PA
     20100317	212.232.112.0/20	ALLOCATED PA
     20100521	195.254.182.0/23	ALLOCATED PA
-    20100625	1.178.224.0/19	ALLOCATED PA
     20100625	46.102.160.0/21	ALLOCATED PA
     20101224	113.203.128.0/18	ALLOCATED PA
     20110207	46.251.160.0/19	ALLOCATED PA
@@ -65575,6 +65579,7 @@ fr.telecom
     20070712	92.182.0.0/15	ALLOCATED PA
     20070712	92.184.0.0/13	ALLOCATED PA
     20091007	109.208.0.0/12	ALLOCATED PA
+    20100625	1.178.224.0/19	ALLOCATED PA
     20100712	2.3.0.0/16	ALLOCATED PA
     20100712	2.4.0.0/14	ALLOCATED PA
     20100712	2.8.0.0/13	ALLOCATED PA
@@ -75267,6 +75272,7 @@ iq.asl-aliraq
 iq.asl-aluroba
     Asl-Aluroba for General Trading and Contracting Ltd
 
+    20261015	194.62.14.0/24	ALLOCATED PA
     20250710	2a09:66c0::/29
 
 iq.assertech
@@ -78452,11 +78458,13 @@ ir.mahannet5
     Enteghal Dadeh Mahan Co. PJSC
 
     20230307	2.57.3.0/24	ALLOCATED PA
+    20261015	2a11:900::/29
 
 ir.mahannet8
     Enteghal Dadeh Mahan Co. PJSC
 
     20230508	91.227.27.0/24	ALLOCATED PA
+    20261015	2a11:4e00::/29
 
 ir.mahannet9
     Enteghal Dadeh Mahan Co. PJSC
@@ -98926,11 +98934,6 @@ mk.interspacedooel
     20180209	2a0d:6180::/29
     20180212	2a0d:6780::/29
     20191108	2a0f:6440::/29
-
-mk.itvnet
-    Company for interactive technologies ITV DOOEL export-import Skopje
-
-    20130813	2a00:c8a0::/29
 
 mk.kds-kabelnet
     KDS-Kabel Net DOO
@@ -156116,6 +156119,7 @@ ua.ukrnames
     19970404	195.123.248.0/22	ALLOCATED PA
     19991110	212.86.110.0/23	ALLOCATED PA
     19991110	212.86.113.0/24	ALLOCATED PA
+    20261015	193.228.229.0/24	ALLOCATED PA
 
 ua.ukrnet
     UkrNet Ltd.
@@ -159453,12 +159457,6 @@ uk.clouvider
     20200525	2a07:41c0::/29
     20231102	2a14:100::/29
     20240604	2a0c:19c0::/29
-
-uk.clouvider18
-    Julita Nowacki
-
-    20191030	194.124.76.0/23	ALLOCATED PA
-    20191030	194.124.158.0/23	ALLOCATED PA
 
 uk.clrty
     Clarity Telecom Limited
@@ -164416,6 +164414,12 @@ uk.jll
     Jones Lang LaSalle Ltd
 
     20201103	193.163.112.0/24	ALLOCATED PA
+
+uk.jnowacki
+    Julita Nowacki
+
+    20191030	194.124.76.0/23	ALLOCATED PA
+    20191030	194.124.158.0/23	ALLOCATED PA
 
 uk.jola
     Jola Cloud Solutions Ltd
@@ -172195,7 +172199,7 @@ uk.win
     20220801	2a13:80::/32
 
 uk.winebureau
-    WINE AND FOOD PARTNERS LTD
+    Wine And Food Partners Ltd.
 
     20180515	194.34.168.0/22	ALLOCATED PA
     20180515	2a0c:bac0::/29
@@ -176220,7 +176224,7 @@ us.rakuten
     20160406	2a07:4e40::/29
 
 us.rapidscale
-    RapidScale, Inc.
+    RapidScale, LLC
 
     20160708	185.159.4.0/22	ALLOCATED PA
     20221024	2a13:11c0::/32
