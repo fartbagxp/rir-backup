@@ -19150,7 +19150,6 @@ cy.capital
 cy.carletta
     CARLETTA Ltd
 
-    20220125	80.91.213.0/24	ALLOCATED PA
     20250723	176.117.109.0/24	ALLOCATED PA
     20240129	2a0c:5b80::/29
 
@@ -52471,7 +52470,7 @@ es.ono
     20040415	84.120.0.0/13	ALLOCATED PA
     20040511	83.173.128.0/18	ALLOCATED PA
     20041103	85.137.82.0/23	ALLOCATED PA
-    20041103	85.137.180.0/23	ALLOCATED PA
+    20041103	85.137.180.0/24	ALLOCATED PA
     20041105	85.155.0.0/21	ALLOCATED PA
     20041105	85.155.8.0/22	ALLOCATED PA
     20041105	85.155.12.0/23	ALLOCATED PA
@@ -67029,7 +67028,10 @@ ge.silkroadbank
 ge.skynet
     LTD Sky-Net
 
-    20120726	5.10.32.0/21	ALLOCATED PA
+    20120726	5.10.33.0/24	ALLOCATED PA
+    20120726	5.10.34.0/23	ALLOCATED PA
+    20120726	5.10.36.0/22	ALLOCATED PA
+    20261019	2a11:a7c0::/29
 
 ge.smartitup
     SmartITUP LLC
@@ -67091,6 +67093,7 @@ ge.telecom1
 ge.ugt
     UGT LLC
 
+    20120726	5.10.32.0/24	ALLOCATED PA
     20180228	185.247.92.0/22	ALLOCATED PA
     20210804	46.31.64.0/24	ALLOCATED PA
     20210907	185.202.110.0/24	ALLOCATED PA
@@ -69895,6 +69898,15 @@ hr.telensa
     20160831	185.165.232.0/22	ALLOCATED PA
     20210924	2a11:42c0::/29
 
+hr.terrakom
+    Terrakom d.o.o.
+
+    20041222	85.94.64.0/19	ALLOCATED PA
+    20110608	176.62.0.0/19	ALLOCATED PA
+    20110608	176.62.32.0/20	ALLOCATED PA
+    20141210	185.80.192.0/22	ALLOCATED PA
+    20110509	2a00:7880::/32
+
 hr.tonet5
     TONET TELEKOM d.o.o.
 
@@ -69907,15 +69919,6 @@ hr.valsil-kt
 
     20160105	185.133.132.0/22	ALLOCATED PA
     20160105	2a05:70c0::/29
-
-hr.volja
-    Terrakom d.o.o.
-
-    20041222	85.94.64.0/19	ALLOCATED PA
-    20110608	176.62.0.0/19	ALLOCATED PA
-    20110608	176.62.32.0/20	ALLOCATED PA
-    20141210	185.80.192.0/22	ALLOCATED PA
-    20110509	2a00:7880::/32
 
 hr.vox
     Avola Solutions d.o.o.
@@ -88474,6 +88477,11 @@ it.seflow
     20121102	185.8.196.0/22	ALLOCATED PA
     20101119	2a02:29e0::/30
 
+it.sensibledata
+    Sensible Data S.P.A.
+
+    20261019	2a11:a840::/29
+
 it.serenno
     Serenno Cybersecurity srl
 
@@ -89375,11 +89383,6 @@ it.teleniagroup
 
     20250723	193.84.84.0/24	ALLOCATED PA
     20240125	2a0a:7680::/29
-
-it.telesapiens
-    TELE SAPIENS SRLS
-
-    20201028	2a10:9a00::/29
 
 it.telespazio
     Telespazio S.p.A.
@@ -91448,6 +91451,7 @@ kg.transfer
 kn.spaceweb
     Space Web LLC
 
+    20041103	85.137.181.0/24	ALLOCATED PA
     20051129	89.39.66.0/24	ALLOCATED PA
     20110221	188.191.144.0/24	ALLOCATED PA
     20260915	2a0e:ad80::/29
@@ -91460,6 +91464,11 @@ kr.navox
     20190222	85.208.212.0/22	ALLOCATED PA
     20190910	45.151.180.0/22	ALLOCATED PA
     20251022	2a0f:3ec0::/29
+
+kw.aasu
+    Abdullah Al Salem University
+
+    20190927	45.158.96.0/22	ALLOCATED PA
 
 kw.abkuwait
     Al Ahli Bank of Kuwait K.S.C.P
@@ -91550,7 +91559,6 @@ kw.gulfnet
     20080818	94.187.192.0/18	ALLOCATED PA
     20130117	185.16.4.0/22	ALLOCATED PA
     20140131	185.46.144.0/22	ALLOCATED PA
-    20190927	45.158.96.0/22	ALLOCATED PA
     20110620	2a01:7780::/32
     20190927	2a0f:5980::/29
 
@@ -101147,6 +101155,11 @@ nl.cyberfusion-io
     20171124	185.233.172.0/22	ALLOCATED PA
     20171124	2a0c:eb00::/32
 
+nl.cybermancer
+    Cybermancer Holdings B.V.
+
+    20261019	2a11:9e40::/29
+
 nl.cybernetworks
     T. van den Heuvel Holding B.V.
 
@@ -102833,14 +102846,6 @@ nl.hackerone
 
     20190412	45.8.84.0/22	ALLOCATED PA
     20190412	2a0e:5200::/29
-
-nl.hallo
-    hallo, Nederland B.V.
-
-    20131016	185.37.244.0/22	ALLOCATED PA
-    20140703	185.62.208.0/22	ALLOCATED PA
-    20131015	2a04:72c0::/29
-    20140627	2a03:120::/32
 
 nl.halma
     Arjen Halma trading as Halma Automatisering
@@ -106606,9 +106611,12 @@ nl.openfiberbv
 nl.openict
     hallo, Nederland B.V.
 
+    20131016	185.37.244.0/22	ALLOCATED PA
+    20140703	185.62.208.0/22	ALLOCATED PA
     20150218	185.88.188.0/22	ALLOCATED PA
     20151013	185.121.92.0/22	ALLOCATED PA
-    20150218	2a05:cd80::/29
+    20131015	2a04:72c0::/29
+    20140627	2a03:120::/32
     20151013	2a03:8300::/32
 
 nl.openline
@@ -109131,7 +109139,7 @@ nl.tripleinternetsolution
     20150609	2a04:d9c0::/29
 
 nl.tripleit
-    Triple IT BV
+    Hypersolid Alkmaar B.V.
 
     20080708	93.187.8.0/21	ALLOCATED PA
     20120326	37.203.216.0/21	ALLOCATED PA
@@ -111742,7 +111750,7 @@ no.klartnet
     20260522	2a07:e280::/29
 
 no.kongsbergsatellite
-    KONGSBERG SATELLITE SERVICES AS
+    Kongsberg Satellite Services AS
 
     20250108	45.8.104.0/24	ALLOCATED PA
 
@@ -141961,6 +141969,7 @@ sc.nexmont
     Nexmont Services Ltd
 
     19911202	155.212.232.0/24	ALLOCATED PA
+    20220125	80.91.213.0/24	ALLOCATED PA
     20251114	2a11:6800::/29
 
 sc.noventix
@@ -149480,12 +149489,8 @@ tr.cypking1
     Cypking Network & Communication Ltd
 
     20141212	185.81.32.0/22	ALLOCATED PA
-    20141212	2a05:8500::/29
-
-tr.cypkingltd
-    Cypking Network & Communication Ltd
-
     20171220	185.237.228.0/22	ALLOCATED PA
+    20141212	2a05:8500::/29
 
 tr.daily
     Orbit Telekom Sanayi ve Ticaret Limited Sirketi
@@ -173766,7 +173771,7 @@ us.cisco2
     20051206	80.254.144.0/20	ALLOCATED PA
     20101223	46.255.40.0/21	ALLOCATED PA
     20140606	185.60.84.0/22	ALLOCATED PA
-    20110124	2a00:9600::/32
+    20140603	2a04:e4c0::/29
 
 us.cleardocks
     cleardocks LLC
@@ -175940,11 +175945,6 @@ us.opaqnetworks
 
     20180314	185.249.164.0/22	ALLOCATED PA
     20180313	2a0d:ff80::/32
-
-us.opendnsinc
-    Cisco OpenDNS LLC
-
-    20140603	2a04:e4c0::/29
 
 us.opsource
     NTT Cloud Infrastructure Services Inc
