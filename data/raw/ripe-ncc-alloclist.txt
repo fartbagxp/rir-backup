@@ -16385,6 +16385,7 @@ ch.lan
     20120106	37.35.120.0/21	ALLOCATED PA
     20120330	37.209.176.0/20	ALLOCATED PA
     20120523	5.44.112.0/20	ALLOCATED PA
+    20120716	5.149.16.0/20	ALLOCATED PA
     20141024	185.74.108.0/22	ALLOCATED PA
     20040227	2001:1a88::/29
 
@@ -16723,7 +16724,6 @@ ch.mtfsh
 ch.muri
     Gemeindebetriebe Muri bei Bern (GBM)
 
-    20120716	5.149.16.0/20	ALLOCATED PA
     20141024	185.74.148.0/22	ALLOCATED PA
     20130827	2a00:d260::/29
 
@@ -21244,6 +21244,7 @@ cz.emerald
     Emerald Group s.r.o.
 
     20071012	79.133.178.0/23	ALLOCATED PA
+    20090909	213.109.104.0/22	ALLOCATED PA
     20110815	176.96.224.0/19	ALLOCATED PA
     20131205	2a01:6220::/32
 
@@ -24642,11 +24643,6 @@ de.affinitas
     20160720	185.160.84.0/22	ALLOCATED PA
     20160720	2a07:bb80::/29
 
-de.afi-solutions
-    Doxis Solutions GmbH
-
-    20181123	176.53.136.0/22	ALLOCATED PA
-
 de.agilimo
     agilimo Consulting GmbH
 
@@ -27911,6 +27907,11 @@ de.dotplex
 
     20171110	185.231.124.0/22	ALLOCATED PA
     20171110	2a0c:5f00::/32
+
+de.doxis
+    Doxis Solutions GmbH
+
+    20181123	176.53.136.0/22	ALLOCATED PA
 
 de.dpa
     dpa Deutsche Presse Agentur GmbH
@@ -35464,6 +35465,11 @@ de.netzint
 
     20140314	185.50.120.0/22	ALLOCATED PA
     20140310	2a01:a7a0::/32
+
+de.netzliving
+    NetzLiving GmbH
+
+    20261106	2a13:3c0::/29
 
 de.netznutz
     NetzNutz GmbH
@@ -58476,6 +58482,11 @@ fr.ccns
 
     19960315	193.149.96.0/19	ALLOCATED PA
     20010228	212.121.160.0/19	ALLOCATED PA
+
+fr.ccr
+    CAISSE CENTRALE DE REASSURANCE SA
+
+    20261106	2a12:fcc0::/29
 
 fr.cd42
     Departement De La Loire
@@ -111453,10 +111464,6 @@ no.hammerfestenergi
     20181017	176.124.60.0/22	ALLOCATED PA
     20181017	176.125.244.0/22	ALLOCATED PA
     20150424	2a06:700::/29
-    20161201	2a0a:9b80::/32
-    20161201	2a0a:9c80::/32
-    20181016	2a0b:cc40::/29
-    20181016	2a0d:cac0::/29
 
 no.harrisnorge
     Speedcast Norway AS
@@ -112883,7 +112890,6 @@ no.trollfjord
     20190131	171.22.152.0/22	ALLOCATED PA
     20190321	2.58.24.0/22	ALLOCATED PA
     20081114	2a00:ea0::/29
-    20190102	2a09:5c0::/29
 
 no.tromsokommune
     Tromso Kommune
@@ -124823,6 +124829,7 @@ ru.aurora
     Aurora Telecom LLC
 
     20210830	158.255.73.0/24	ALLOCATED PA
+    20261106	2a12:e840::/29
 
 ru.avangard-llc
     Avangard LLC
@@ -143747,7 +143754,7 @@ se.geusgruppen
     20180629	2a07:7240::/29
 
 se.gle-ripe
-    Glesys AB
+    Glesys Sweden AB
 
     19980923	212.112.0.0/19	ALLOCATED PA
     20010608	193.108.196.0/24	ALLOCATED PA
@@ -154577,6 +154584,9 @@ ua.hostingsolutions
     20110415	194.15.112.0/22	ALLOCATED PA
     20180309	185.248.192.0/22	ALLOCATED PA
     20210712	194.26.18.0/24	ALLOCATED PA
+    20180309	2a0d:ef80::/32
+    20180903	2a0d:5140::/32
+    20210712	2a11:9c00::/29
 
 ua.hostiq
     Mykola Skurikhin
@@ -163818,14 +163828,6 @@ uk.interpublic
     INTERPUBLIC GIS (UK) LTD
 
     20201013	2a10:8800::/29
-
-uk.inthostsolutions
-    INTERNATIONAL HOSTING SOLUTIONS LLP
-
-    20180309	2a0d:ef80::/32
-    20180903	2a0d:5140::/32
-    20180925	2a0d:8dc0::/29
-    20210712	2a11:9c00::/29
 
 uk.intistelecomltd
     UK Intis Telecom LTD
